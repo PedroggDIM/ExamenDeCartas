@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/home/alumno01/desarrollo/workspace/java jar/UsersAndLikes.jar"/>
+	<classpathentry kind="lib" path="/home/alumno01/programas/workspace/java jar/UsersAndLikes.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
